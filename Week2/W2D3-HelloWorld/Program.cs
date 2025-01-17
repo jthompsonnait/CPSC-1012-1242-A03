@@ -6,8 +6,8 @@
         {
             Console.WriteLine("Hello, World!");
             Console.WriteLine("Goodbye, World!");
-            Console.WriteLine("Goodbye, World1!");
-            Console.WriteLine("Goodbye, World2!");
+            Console.WriteLine("Goodbye, World3!");
+            Console.WriteLine("Goodbye, World5!");
         }
     }
 }
