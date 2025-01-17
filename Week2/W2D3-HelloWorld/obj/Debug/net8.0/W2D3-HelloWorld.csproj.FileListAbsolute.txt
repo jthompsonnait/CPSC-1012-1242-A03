@@ -1,0 +1,15 @@
+E:\temp\CPSC-1012-1242-A03\Week2\W2D3-HelloWorld\bin\Debug\net8.0\W2D3-HelloWorld.exe
+E:\temp\CPSC-1012-1242-A03\Week2\W2D3-HelloWorld\bin\Debug\net8.0\W2D3-HelloWorld.deps.json
+E:\temp\CPSC-1012-1242-A03\Week2\W2D3-HelloWorld\bin\Debug\net8.0\W2D3-HelloWorld.runtimeconfig.json
+E:\temp\CPSC-1012-1242-A03\Week2\W2D3-HelloWorld\bin\Debug\net8.0\W2D3-HelloWorld.dll
+E:\temp\CPSC-1012-1242-A03\Week2\W2D3-HelloWorld\bin\Debug\net8.0\W2D3-HelloWorld.pdb
+E:\temp\CPSC-1012-1242-A03\Week2\W2D3-HelloWorld\obj\Debug\net8.0\W2D3-HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+E:\temp\CPSC-1012-1242-A03\Week2\W2D3-HelloWorld\obj\Debug\net8.0\W2D3-HelloWorld.AssemblyInfoInputs.cache
+E:\temp\CPSC-1012-1242-A03\Week2\W2D3-HelloWorld\obj\Debug\net8.0\W2D3-HelloWorld.AssemblyInfo.cs
+E:\temp\CPSC-1012-1242-A03\Week2\W2D3-HelloWorld\obj\Debug\net8.0\W2D3-HelloWorld.csproj.CoreCompileInputs.cache
+E:\temp\CPSC-1012-1242-A03\Week2\W2D3-HelloWorld\obj\Debug\net8.0\W2D3-HelloWorld.sourcelink.json
+E:\temp\CPSC-1012-1242-A03\Week2\W2D3-HelloWorld\obj\Debug\net8.0\W2D3-HelloWorld.dll
+E:\temp\CPSC-1012-1242-A03\Week2\W2D3-HelloWorld\obj\Debug\net8.0\refint\W2D3-HelloWorld.dll
+E:\temp\CPSC-1012-1242-A03\Week2\W2D3-HelloWorld\obj\Debug\net8.0\W2D3-HelloWorld.pdb
+E:\temp\CPSC-1012-1242-A03\Week2\W2D3-HelloWorld\obj\Debug\net8.0\W2D3-HelloWorld.genruntimeconfig.cache
+E:\temp\CPSC-1012-1242-A03\Week2\W2D3-HelloWorld\obj\Debug\net8.0\ref\W2D3-HelloWorld.dll
