@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\temp\\CPSC-1012-1242-A03\\Week2\\W2D3-HelloWorld\\W2D3-HelloWorld.csproj",
+      "projectUniqueName": "E:\\temp1\\CPSC-1012-1242-A03\\Week2\\W2D3-HelloWorld\\W2D3-HelloWorld.csproj",
       "projectName": "W2D3-HelloWorld",
-      "projectPath": "E:\\temp\\CPSC-1012-1242-A03\\Week2\\W2D3-HelloWorld\\W2D3-HelloWorld.csproj",
+      "projectPath": "E:\\temp1\\CPSC-1012-1242-A03\\Week2\\W2D3-HelloWorld\\W2D3-HelloWorld.csproj",
       "packagesPath": "C:\\Users\\info\\.nuget\\packages\\",
-      "outputPath": "E:\\temp\\CPSC-1012-1242-A03\\Week2\\W2D3-HelloWorld\\obj\\",
+      "outputPath": "E:\\temp1\\CPSC-1012-1242-A03\\Week2\\W2D3-HelloWorld\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

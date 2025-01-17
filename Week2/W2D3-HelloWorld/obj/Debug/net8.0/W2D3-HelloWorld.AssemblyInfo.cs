@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("W2D3-HelloWorld")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+76f9cc3818215fa5bb9e460ee4a944d4833a1677")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5d70574e8672ec3d62c30fe1e4f778e1166321ec")]
 [assembly: System.Reflection.AssemblyProductAttribute("W2D3-HelloWorld")]
 [assembly: System.Reflection.AssemblyTitleAttribute("W2D3-HelloWorld")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
