@@ -49,8 +49,8 @@
             // here the same thing written with a combined assignment operator:
             age += 1;
             //  output new age
-            Console.WriteLine("Your age is " + age);
-
+            Console.WriteLine("Your age is " + age + " and Canada population is " + canadaPopulation);
+            Console.WriteLine($"Your age is {age} and Canada population is {canadaPopulation}");
 
 
 
