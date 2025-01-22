@@ -1,11 +1,15 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35527.113 d17.12
+VisualStudioVersion = 17.12.35527.113
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "W3D1-String", "W3D1-String\W3D1-String.csproj", "{A43C7F2D-7051-4E7B-A60D-C15C0CD507BD}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "W3D1-Number", "W3D1-Number\W3D1-Number.csproj", "{36BB5840-8AC5-49D6-8816-73DE1B1F783F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "W3D2-UserInputExamples", "W3D2-UserInputExamples\W3D2-UserInputExamples.csproj", "{383913AB-2D27-4884-B8EC-012D17EA2BF9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "W3D2-Math", "W3D2-Math\W3D2-Math.csproj", "{E83C8B62-B305-4994-84A3-C32A99E981B4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +25,14 @@ Global
 		{36BB5840-8AC5-49D6-8816-73DE1B1F783F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{36BB5840-8AC5-49D6-8816-73DE1B1F783F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{36BB5840-8AC5-49D6-8816-73DE1B1F783F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{383913AB-2D27-4884-B8EC-012D17EA2BF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{383913AB-2D27-4884-B8EC-012D17EA2BF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{383913AB-2D27-4884-B8EC-012D17EA2BF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{383913AB-2D27-4884-B8EC-012D17EA2BF9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E83C8B62-B305-4994-84A3-C32A99E981B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E83C8B62-B305-4994-84A3-C32A99E981B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E83C8B62-B305-4994-84A3-C32A99E981B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E83C8B62-B305-4994-84A3-C32A99E981B4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
