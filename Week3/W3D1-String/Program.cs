@@ -4,6 +4,12 @@
     {
         static void Main(string[] args)
         {
+            // Week 3 - Day 1
+            // Course: CPSC1012 - Programming Fundamentals
+            // Instructor: James Thompson
+            // Exercise: Strings
+            // Author: James Thompson
+
             //  this is a comment
             //  it is for humans.
             //  the following statements are demonstrating the
@@ -50,6 +56,7 @@
             age += 1;
             //  output new age
             Console.WriteLine("Your age is " + age + " and Canada population is " + canadaPopulation);
+            //  string interpolation
             Console.WriteLine($"Your age is {age} and Canada population is {canadaPopulation}");
 
 
