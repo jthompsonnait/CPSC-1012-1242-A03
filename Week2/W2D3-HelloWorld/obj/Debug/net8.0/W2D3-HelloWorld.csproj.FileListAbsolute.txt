@@ -28,3 +28,18 @@ E:\temp1\CPSC-1012-1242-A03\Week2\W2D3-HelloWorld\obj\Debug\net8.0\refint\W2D3-H
 E:\temp1\CPSC-1012-1242-A03\Week2\W2D3-HelloWorld\obj\Debug\net8.0\W2D3-HelloWorld.pdb
 E:\temp1\CPSC-1012-1242-A03\Week2\W2D3-HelloWorld\obj\Debug\net8.0\W2D3-HelloWorld.genruntimeconfig.cache
 E:\temp1\CPSC-1012-1242-A03\Week2\W2D3-HelloWorld\obj\Debug\net8.0\ref\W2D3-HelloWorld.dll
+C:\OD\OneDrive - NAIT\Development\CPSC1012-Jan2025\CPSC-1012-1242-A03\Week2\W2D3-HelloWorld\bin\Debug\net8.0\W2D3-HelloWorld.exe
+C:\OD\OneDrive - NAIT\Development\CPSC1012-Jan2025\CPSC-1012-1242-A03\Week2\W2D3-HelloWorld\bin\Debug\net8.0\W2D3-HelloWorld.deps.json
+C:\OD\OneDrive - NAIT\Development\CPSC1012-Jan2025\CPSC-1012-1242-A03\Week2\W2D3-HelloWorld\bin\Debug\net8.0\W2D3-HelloWorld.runtimeconfig.json
+C:\OD\OneDrive - NAIT\Development\CPSC1012-Jan2025\CPSC-1012-1242-A03\Week2\W2D3-HelloWorld\bin\Debug\net8.0\W2D3-HelloWorld.dll
+C:\OD\OneDrive - NAIT\Development\CPSC1012-Jan2025\CPSC-1012-1242-A03\Week2\W2D3-HelloWorld\bin\Debug\net8.0\W2D3-HelloWorld.pdb
+C:\OD\OneDrive - NAIT\Development\CPSC1012-Jan2025\CPSC-1012-1242-A03\Week2\W2D3-HelloWorld\obj\Debug\net8.0\W2D3-HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\OD\OneDrive - NAIT\Development\CPSC1012-Jan2025\CPSC-1012-1242-A03\Week2\W2D3-HelloWorld\obj\Debug\net8.0\W2D3-HelloWorld.AssemblyInfoInputs.cache
+C:\OD\OneDrive - NAIT\Development\CPSC1012-Jan2025\CPSC-1012-1242-A03\Week2\W2D3-HelloWorld\obj\Debug\net8.0\W2D3-HelloWorld.AssemblyInfo.cs
+C:\OD\OneDrive - NAIT\Development\CPSC1012-Jan2025\CPSC-1012-1242-A03\Week2\W2D3-HelloWorld\obj\Debug\net8.0\W2D3-HelloWorld.csproj.CoreCompileInputs.cache
+C:\OD\OneDrive - NAIT\Development\CPSC1012-Jan2025\CPSC-1012-1242-A03\Week2\W2D3-HelloWorld\obj\Debug\net8.0\W2D3-HelloWorld.sourcelink.json
+C:\OD\OneDrive - NAIT\Development\CPSC1012-Jan2025\CPSC-1012-1242-A03\Week2\W2D3-HelloWorld\obj\Debug\net8.0\W2D3-HelloWorld.dll
+C:\OD\OneDrive - NAIT\Development\CPSC1012-Jan2025\CPSC-1012-1242-A03\Week2\W2D3-HelloWorld\obj\Debug\net8.0\refint\W2D3-HelloWorld.dll
+C:\OD\OneDrive - NAIT\Development\CPSC1012-Jan2025\CPSC-1012-1242-A03\Week2\W2D3-HelloWorld\obj\Debug\net8.0\W2D3-HelloWorld.pdb
+C:\OD\OneDrive - NAIT\Development\CPSC1012-Jan2025\CPSC-1012-1242-A03\Week2\W2D3-HelloWorld\obj\Debug\net8.0\W2D3-HelloWorld.genruntimeconfig.cache
+C:\OD\OneDrive - NAIT\Development\CPSC1012-Jan2025\CPSC-1012-1242-A03\Week2\W2D3-HelloWorld\obj\Debug\net8.0\ref\W2D3-HelloWorld.dll
