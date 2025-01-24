@@ -79,6 +79,30 @@
             //  using modulus operator
             num %= 5;  // 2
             Console.WriteLine(num);  // 2
+
+            //  using the math class for advanced arithmetic
+            //  square root
+            //  square root of 9 is 3 (3 * 3 = 9)
+            //  square root of 25 is 5 (5 * 5 = 25)
+            int squareRootNum = 25;
+            double squareRootResult = Math.Sqrt(squareRootNum);
+            Console.WriteLine($"The square root of {squareRootNum} is {squareRootResult}");
+
+            squareRootNum = 47;
+            squareRootResult = Math.Sqrt(squareRootNum);
+            Console.WriteLine($"The square root of {squareRootNum} is {squareRootResult}"); //6.855654600401044
+            //  using decimal formatting for better readablility
+            Console.WriteLine($"The square root of {squareRootNum} to 2 decimal places is {squareRootResult:N2}");
+
+            //  squaring a number (power of)
+            //  3 and we square, we will get 9
+            //  10 and we square, we will get 100
+            double squareNum = 3;
+            double powerResult = Math.Pow(squareNum, 2);  //  number we wish to power, and the power of.
+            Console.WriteLine($"The square of {squareNum} is {powerResult}"); // 9
+            powerResult = Math.Pow(squareNum, 3);  //  cube the number powerResult * powerResult * powerResult
+            Console.WriteLine($"The cube of {squareNum} is {powerResult}"); // 27
+
         }
     }
 }

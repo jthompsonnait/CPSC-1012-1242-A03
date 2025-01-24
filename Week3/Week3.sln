@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "W3D2-UserInputExamples", "W
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "W3D2-Math", "W3D2-Math\W3D2-Math.csproj", "{E83C8B62-B305-4994-84A3-C32A99E981B4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "W3D3-Parse", "W3D3-Parse\W3D3-Parse.csproj", "{AA882C89-B5CA-481B-8F6B-CC8900298A55}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "W3D3-CalcTrangleSideC", "W3D3-CalcTrangleSideC\W3D3-CalcTrangleSideC.csproj", "{6041B82D-2A6A-45AA-A059-59CE7750E1D2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{E83C8B62-B305-4994-84A3-C32A99E981B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E83C8B62-B305-4994-84A3-C32A99E981B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E83C8B62-B305-4994-84A3-C32A99E981B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA882C89-B5CA-481B-8F6B-CC8900298A55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA882C89-B5CA-481B-8F6B-CC8900298A55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA882C89-B5CA-481B-8F6B-CC8900298A55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA882C89-B5CA-481B-8F6B-CC8900298A55}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6041B82D-2A6A-45AA-A059-59CE7750E1D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6041B82D-2A6A-45AA-A059-59CE7750E1D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6041B82D-2A6A-45AA-A059-59CE7750E1D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6041B82D-2A6A-45AA-A059-59CE7750E1D2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
