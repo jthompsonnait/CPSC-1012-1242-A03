@@ -37,6 +37,12 @@
             //  the following will fail if we uncomment it due to the GST_RATE is a constant
             // GST_RATE = 0.07;
 
+            //  cost of the microwave
+            double microwaveCost = 450.4567;
+            Console.WriteLine($"No formatting {microwaveCost}");
+            Console.WriteLine($"Bad formatting ${microwaveCost}");
+            Console.WriteLine($"Good formatting {microwaveCost.ToString("c")}");
+            Console.WriteLine($"Good formatting {microwaveCost:c}");
 
 
 
