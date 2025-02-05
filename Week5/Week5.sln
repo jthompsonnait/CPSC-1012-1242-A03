@@ -1,11 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35527.113 d17.12
+VisualStudioVersion = 17.12.35527.113
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "W5D1", "Week5\W5D1.csproj", "{FF80A188-9821-412A-821F-D6705AA53E93}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "W5D1-StringPractice", "W5D1-StringPractice\W5D1-StringPractice.csproj", "{8AA8A5F3-F84D-4314-9C36-A68C371FD09E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "W5D3-Decisions", "W5D3-Decisions\W5D3-Decisions.csproj", "{B2FEE4A4-8B54-4D0F-BBDA-D91297D6C295}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{8AA8A5F3-F84D-4314-9C36-A68C371FD09E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8AA8A5F3-F84D-4314-9C36-A68C371FD09E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8AA8A5F3-F84D-4314-9C36-A68C371FD09E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2FEE4A4-8B54-4D0F-BBDA-D91297D6C295}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2FEE4A4-8B54-4D0F-BBDA-D91297D6C295}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2FEE4A4-8B54-4D0F-BBDA-D91297D6C295}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2FEE4A4-8B54-4D0F-BBDA-D91297D6C295}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
