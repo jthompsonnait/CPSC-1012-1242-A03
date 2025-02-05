@@ -114,10 +114,7 @@
             // use our switch statement to return a mark
             switch (percent)
             {
-                case > 100:
-                    Console.WriteLine("Invalid Percent!");
-                    break;
-                case >= 80:
+                case int p when (p >= 80 && p <= 100):
                     Console.WriteLine("Your mark is 'A'");
                     break;
                 case >= 65:
@@ -128,6 +125,25 @@
                     break;
                 case >= 0:
                     Console.WriteLine("Your mark is 'F");
+                    break;
+                default:
+                    Console.WriteLine("Invalid Percent!");
+                    break;
+            }
+            //  Thanks to Julien
+            switch (percent)
+            {
+                case int n when (n >= 80 && n <= 100):
+                    Console.WriteLine("Your mark is 'A'");
+                    break;
+                case int n when (n >= 65 && n < 80):
+                    Console.WriteLine("Your mark is 'B'");
+                    break;
+                case int n when (n >= 50 && n < 65):
+                    Console.WriteLine("Your mark is 'C'");
+                    break;
+                case int n when (n >= 0 && n < 50):
+                    Console.WriteLine("Your mark is 'F'");
                     break;
                 default:
                     Console.WriteLine("Invalid Percent!");
