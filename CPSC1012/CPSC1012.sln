@@ -1,15 +1,17 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35527.113 d17.12
+VisualStudioVersion = 17.12.35527.113
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CPSC1012", "CPSC1012\CPSC1012.csproj", "{9D7881D7-89B5-4B96-8E7F-E98E0E69EFED}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "W6D1-Overview", "W6D1-Overview\W6D1-Overview.csproj", "{4078113A-33C5-414E-89EC-5FD8B3AF9C10}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "W6D3-Total", "W6D3-Total\W6D3-Total.csproj", "{D0E08830-C664-42A0-9589-FECEEABCB46F}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "W6D1-Loop1", "W6D1-Loop1\W6D1-Loop1.csproj", "{8CCAA058-7196-450B-A4F5-7C04B6BD17F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "W6D2-CounterBasic", "W6D2-CounterBasic\W6D2-CounterBasic.csproj", "{6316FEF3-D773-444D-B885-2503EC4E0AD6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "W6D2-GuessingGame", "W6D2-GuessingGame\W6D2-GuessingGame.csproj", "{10EEB424-6CF1-4D70-9408-D29A89EA8972}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +19,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{9D7881D7-89B5-4B96-8E7F-E98E0E69EFED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{9D7881D7-89B5-4B96-8E7F-E98E0E69EFED}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{9D7881D7-89B5-4B96-8E7F-E98E0E69EFED}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{9D7881D7-89B5-4B96-8E7F-E98E0E69EFED}.Release|Any CPU.Build.0 = Release|Any CPU
 		{4078113A-33C5-414E-89EC-5FD8B3AF9C10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{4078113A-33C5-414E-89EC-5FD8B3AF9C10}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4078113A-33C5-414E-89EC-5FD8B3AF9C10}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -33,6 +31,14 @@ Global
 		{8CCAA058-7196-450B-A4F5-7C04B6BD17F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8CCAA058-7196-450B-A4F5-7C04B6BD17F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8CCAA058-7196-450B-A4F5-7C04B6BD17F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6316FEF3-D773-444D-B885-2503EC4E0AD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6316FEF3-D773-444D-B885-2503EC4E0AD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6316FEF3-D773-444D-B885-2503EC4E0AD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6316FEF3-D773-444D-B885-2503EC4E0AD6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10EEB424-6CF1-4D70-9408-D29A89EA8972}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10EEB424-6CF1-4D70-9408-D29A89EA8972}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10EEB424-6CF1-4D70-9408-D29A89EA8972}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10EEB424-6CF1-4D70-9408-D29A89EA8972}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
