@@ -23,6 +23,11 @@ namespace W6D2_GuessingGame
             {
                 Console.Write("Input a number between 1 and 100.  Enter 0 to Quit: ");
                 userInput = int.Parse(Console.ReadLine());
+                if (userInput < 0 || userInput > 100)
+                {
+                    Console.WriteLine("Your number must be between 1 and 100");
+                }
+                else
                 if (number < userInput)
                 {
                     Console.WriteLine("Your number is too high");
