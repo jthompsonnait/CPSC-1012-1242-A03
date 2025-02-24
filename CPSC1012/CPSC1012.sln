@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "W6D2-GuessingGame", "W6D2-G
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "W7D1-Array", "W7D1-Array\W7D1-Array.csproj", "{75910612-40B8-43CD-973D-7CEDEFBDEC5B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "W7D1-Exercise1", "W7D1-Exercise1\W7D1-Exercise1.csproj", "{29601D71-5E2B-47B3-9BF9-8702711176CB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{75910612-40B8-43CD-973D-7CEDEFBDEC5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{75910612-40B8-43CD-973D-7CEDEFBDEC5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{75910612-40B8-43CD-973D-7CEDEFBDEC5B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29601D71-5E2B-47B3-9BF9-8702711176CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29601D71-5E2B-47B3-9BF9-8702711176CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29601D71-5E2B-47B3-9BF9-8702711176CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29601D71-5E2B-47B3-9BF9-8702711176CB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
