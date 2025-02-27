@@ -56,6 +56,7 @@ namespace W7D1_Exercise1
                 total = total + number;
             }
 
+			//	check if count is greater than zero, otherwise we will get an error.
             if (count > 0)
             {
                 average = total / count;
