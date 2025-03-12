@@ -64,7 +64,50 @@
                     //  print initial information about the file
                     //  display the total number of lines in the file
                     Console.WriteLine($"Number of lines/rows: {lines.Length}");
+                    Console.WriteLine();
 
+                    //  display the total number of records in our file.
+                    //  note:  Because we have a header row, we need to take the count and subtract 1
+                    Console.WriteLine($"Number of person/records: {lines.Length - 1}");
+                    Console.WriteLine();
+
+                    //  output the header row
+                    string[] items = lines[0].Split(',');   // split header row by commas
+
+                    //  print the column headers with tab spacing
+                    for (int i = 0; i < items.Length; i++)
+                    {
+                        Console.Write($"{items[i]}\t");
+                    }
+                    Console.WriteLine();
+
+                    //  output the list of people (skip the header row, start at index 1)
+                    for (int i = 1; i < lines.Length; i++)
+                    {
+                        string[] person = lines[i].Split(',');  //  split each line into individual values
+
+                        //  print each person's details with tab spacing
+                        for (int j = 0; j < person.Length; j++)
+                        {
+                            Console.Write($"{person[j]}\t");
+                        }
+                        Console.WriteLine();
+                    }
+
+                    CreateBlankLines(5);
+
+                    //  Print last name and age
+                    //  Assuming structure is first name, last name and age
+                    Console.WriteLine("Print Last Name and Age");
+                    Console.WriteLine("***********************");
+                    Console.WriteLine("Last Name\t Age");
+
+                    //  output the list of people (skip the header row, start at index 1)
+                    for (int i = 1; i < lines.Length; i++)
+                    {
+                        string[] person = lines[i].Split(',');  //  split each line into individual values
+                        Console.WriteLine($"{person[1]}\t{person[2]}");
+                    }
                 }
                 catch (Exception ex)
                 {
@@ -76,6 +119,23 @@
 
 
         #region Helper Methods
+        //  create a number of blanks based on the number requested
+        public static void CreateBlankLines(int numberOfLines)
+        {
+            //  ensure that the input is valid (non-negative)
+            if (numberOfLines < 0)
+            {
+                return;
+            }
+
+            //  print the specified number of blank lines
+            for (int i = 0; i < numberOfLines; i++)
+            {
+                Console.WriteLine();
+            }
+        }
+
+
         // Generates a random name of a given length.
         public static string GenerateName(int len)
         {
