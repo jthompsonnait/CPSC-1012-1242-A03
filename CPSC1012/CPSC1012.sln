@@ -39,6 +39,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "W9D2-CSV", "W9D2-CSV\W9D2-C
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "W9D3-Demo1", "W9D3-Demo1\W9D3-Demo1.csproj", "{81B03C6B-59EE-49F9-82F6-2A9D68945F8E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "W12D1-SimpleClass", "SimpleClass1\W12D1-SimpleClass.csproj", "{BE62BC10-5C9A-4B7D-BD0D-31A3E319D516}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -117,6 +119,10 @@ Global
 		{81B03C6B-59EE-49F9-82F6-2A9D68945F8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{81B03C6B-59EE-49F9-82F6-2A9D68945F8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{81B03C6B-59EE-49F9-82F6-2A9D68945F8E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE62BC10-5C9A-4B7D-BD0D-31A3E319D516}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE62BC10-5C9A-4B7D-BD0D-31A3E319D516}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE62BC10-5C9A-4B7D-BD0D-31A3E319D516}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE62BC10-5C9A-4B7D-BD0D-31A3E319D516}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
