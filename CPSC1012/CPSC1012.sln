@@ -41,6 +41,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "W9D3-Demo1", "W9D3-Demo1\W9
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "W12D1-SimpleClass", "SimpleClass1\W12D1-SimpleClass.csproj", "{BE62BC10-5C9A-4B7D-BD0D-31A3E319D516}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "W12D2-Person", "W12D2-Person\W12D2-Person.csproj", "{F3293E99-3EB3-4A6F-867B-A00F7A8DBF79}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -123,6 +125,10 @@ Global
 		{BE62BC10-5C9A-4B7D-BD0D-31A3E319D516}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BE62BC10-5C9A-4B7D-BD0D-31A3E319D516}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BE62BC10-5C9A-4B7D-BD0D-31A3E319D516}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3293E99-3EB3-4A6F-867B-A00F7A8DBF79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3293E99-3EB3-4A6F-867B-A00F7A8DBF79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3293E99-3EB3-4A6F-867B-A00F7A8DBF79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3293E99-3EB3-4A6F-867B-A00F7A8DBF79}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
