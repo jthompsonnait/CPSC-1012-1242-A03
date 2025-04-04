@@ -5,7 +5,7 @@
         static void Main(string[] args)
         {
             //  use the constructor for our person class
-            Person person = new Person("james", "Thompson", 21,22.0/7.0);
+            Person person = new Person("james", "Thompson", 21);
             person.DisplayPerson();
 
             //Person bestFriend = new Person("Ross", "Hodgson", 60,1);

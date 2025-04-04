@@ -11,7 +11,6 @@ namespace W12D2_Person
         private string _firstName; // Backing store for FirstName
         private string _lastName; // Backing store for LastName
         private int _age; // Backing store for Age
-        private double _pi;
 
         // first name
         public string FirstName
@@ -58,32 +57,19 @@ namespace W12D2_Person
                 _age = value;
             }
         }
-
-        public double Pi
-        {
-            get { return _pi; }
-            set { _pi = Math.Round(value,2); }
-        }
-
-
         // constructor
-        public Person(string firstName, string lastName, int age, double pi)
+        public Person(string firstName, string lastName, int age)
         {
             FirstName =firstName;
             LastName= lastName;
             Age = age;
-            Pi = pi;
         }
 
-        public Person()
-        {
-
-        }
-
+   
         //  display information about the person
         public void DisplayPerson()
         {
-            Console.WriteLine($"First Name: {FirstName}, Last Name: {LastName}, Age:{Age}, Pi:{Pi}");
+            Console.WriteLine($"First Name: {FirstName}, Last Name: {LastName}, Age:{Age}");
         }
     }
 }
